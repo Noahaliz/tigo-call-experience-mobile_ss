@@ -1,0 +1,41 @@
+TIGO CALL EXPERIENCE - INSTRUCCIONES
+
+1. Tu proyecto local ya debe existir en:
+   C:\Users\noeal\Documents\tigo_call_experience
+
+2. Descomprime este ZIP.
+
+3. Copia:
+   - la carpeta "lib"
+   - pubspec.yaml
+   - README.md
+
+4. Pégalos dentro de:
+   C:\Users\noeal\Documents\tigo_call_experience
+
+5. Si Windows pregunta si deseas reemplazar archivos, selecciona SÍ.
+
+6. Abre CMD o la terminal de VS Code dentro del proyecto y ejecuta:
+
+   flutter pub get
+
+7. Con tu Infinix conectado, ejecuta:
+
+   flutter devices
+
+8. Luego ejecuta:
+
+   flutter run -d 1088669416002187
+
+9. La navegación será:
+
+   Splash
+     ↓
+   Login
+     ↓
+   Dashboard
+     ↓
+   Capacitación / Procedimientos / Simulaciones / Evaluaciones
+
+IMPORTANTE:
+Esta versión NO usa base de datos todavía. Es correcto para la Actividad Académica N.º 2.
